@@ -1,0 +1,16 @@
+.card-img-top {
+    height: 150px;
+}
+
+.card-text {
+    color: greenyellow;
+    font-weight: 800;
+}
+
+.card-title {
+    font-weight: 900;
+}
+
+.col-md-3 {
+    padding-top: 70px;
+}
